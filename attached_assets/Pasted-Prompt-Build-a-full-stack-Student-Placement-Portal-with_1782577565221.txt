@@ -1,0 +1,96 @@
+Prompt
+Build a full-stack Student Placement Portal with modern UI and cloud-ready architecture.
+Tech Stack
+Frontend: React.js + Tailwind CSS
+Backend: Node.js + Express.js
+Database: MongoDB Atlas
+Authentication: JWT
+Version Control: Git & GitHub
+CI/CD: GitHub Actions
+Containerization: Docker
+Cloud Deployment: Render or AWS EC2
+Environment Variables: .env
+User Roles
+Student
+Register and Login
+Dashboard
+Edit Profile
+Upload Resume (PDF)
+View Eligible Companies
+Apply for Jobs
+Track Application Status
+View Placement History
+Change Password
+Admin / Placement Officer
+Secure Login
+Dashboard with Statistics
+Add/Edit/Delete Students
+Add/Edit/Delete Companies
+Create Job Drives
+View Applications
+Shortlist Students
+Update Selection Status
+Download Student Details
+Send Notifications
+Features
+Responsive UI
+Search and Filter Students
+Search and Filter Companies
+Pagination
+JWT Authentication
+Password Hashing
+Role-based Authorization
+Form Validation
+Error Handling
+Loading Animations
+Toast Notifications
+Dark Mode
+Mobile Friendly
+Database Collections
+Users
+Students
+Companies
+Jobs
+Applications
+Notifications
+Dashboard Charts
+Total Students
+Total Companies
+Total Jobs
+Total Applications
+Selected Students
+Placement Percentage
+Monthly Placement Statistics
+DevOps & Cloud
+Create Dockerfile
+Create docker-compose.yml
+Add .dockerignore
+Add .gitignore
+Create GitHub Actions workflow for automatic CI/CD
+Automatically build and test on every push to GitHub
+Ready for deployment on Render or AWS EC2
+Use MongoDB Atlas connection string from environment variables
+Project Structure
+
+student-placement-portal/
+│── client/
+│── server/
+│── .github/workflows/
+│── Dockerfile
+│── docker-compose.yml
+│── README.md
+README
+Generate a professional README including:
+Features
+Installation
+Environment Variables
+Local Setup
+Docker Commands
+GitHub Actions CI/CD
+Deployment Steps
+Screenshots Placeholder
+Requirements
+Write clean, modular, production-ready code.
+Include comments where appropriate.
+Ensure there are no compilation errors.
+Make the project deployment-ready and resume-worthy.
